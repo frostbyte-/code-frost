@@ -1,4 +1,4 @@
-# Django settings for code_frost project.
+# Django settings for code-frost project.
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
